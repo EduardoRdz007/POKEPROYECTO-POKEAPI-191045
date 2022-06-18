@@ -3,8 +3,17 @@ p {
 }
 
 .Card {
-    background: white;
-    border-radius: 10px;
+    background: rgb(18, 123, 112);
+  border-radius: 8px;
+  box-shadow: 0 10px 20px rgba(114, 9, 9, 0.19), 0 6px 6px rgba(0,0,0,0.23);
+  cursor: pointer;
+  height: 330px;
+  margin: 30px;
+  padding: 0 20px;
+  position: relative;
+  text-align: center;
+ 
+  width: 260px;
 }
 
 .Card__img {
@@ -31,7 +40,7 @@ p {
 }
 
 .Card__info {
-    margin-left: 10px;
+    margin-left: 0px;
 }
 
 .Card__data {
