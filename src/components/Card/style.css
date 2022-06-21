@@ -7,13 +7,13 @@ p {
   border-radius: 8px;
   box-shadow: 0 10px 20px rgba(114, 9, 9, 0.19), 0 6px 6px rgba(0,0,0,0.23);
   cursor: pointer;
-  height: 330px;
+  height: 380px;
   margin: 30px;
   padding: 0 20px;
   position: relative;
   text-align: center;
  
-  width: 260px;
+  width: 280px;
 }
 
 .Card__img {
@@ -26,9 +26,9 @@ p {
 }
 
 .Card__type {
-    padding: 5px 10px;
+    padding: 30px 30px;
     margin: 10px 10px 10px 0;
-    border-radius: 5px;
+    border-radius: 10px;
     background: cyan;
     color: #fff;
 }
